@@ -76,3 +76,6 @@ import random
 # Create an array of integers
 numbers = arr.array('i', [1, 2, 3, 4, 5])
 print(numbers) # print the array
+
+number = arr.array('i', [random.randint(1, 100) for i in range(5)]) # create an array of random numbers
+print(number) # print the array
