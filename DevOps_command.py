@@ -20,3 +20,12 @@ if result:
     print("Docker is running.")
 else:
             print("Docker is not running. Please start Docker.")
+
+              
+              
+              
+              
+              
+execute_command = run_command("docker ps")
+print(execute_command)
+        
