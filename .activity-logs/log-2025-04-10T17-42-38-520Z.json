@@ -1,0 +1,143 @@
+{
+  "date": "2025-04-10",
+  "changes": [
+    {
+      "fileName": "aws",
+      "timestamp": "2025-04-10T17:25:48.766Z",
+      "changeType": "created",
+      "linesChanged": 1,
+      "fileType": "unknown"
+    },
+    {
+      "fileName": "aws",
+      "timestamp": "2025-04-10T17:26:11.122Z",
+      "changeType": "deleted",
+      "linesChanged": 0,
+      "fileType": "unknown"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:26:11.122Z",
+      "changeType": "created",
+      "linesChanged": 1,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:27:41.647Z",
+      "changeType": "modified",
+      "linesChanged": 2,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:27:41.802Z",
+      "changeType": "modified",
+      "linesChanged": 2,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:31:09.965Z",
+      "changeType": "modified",
+      "linesChanged": 2,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:34:27.311Z",
+      "changeType": "modified",
+      "linesChanged": 3,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:34:27.541Z",
+      "changeType": "modified",
+      "linesChanged": 3,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:34:43.244Z",
+      "changeType": "modified",
+      "linesChanged": 3,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:34:43.456Z",
+      "changeType": "modified",
+      "linesChanged": 3,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:36:02.367Z",
+      "changeType": "modified",
+      "linesChanged": 5,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:36:02.665Z",
+      "changeType": "modified",
+      "linesChanged": 5,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:36:19.620Z",
+      "changeType": "modified",
+      "linesChanged": 5,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:37:19.940Z",
+      "changeType": "modified",
+      "linesChanged": 9,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:37:20.044Z",
+      "changeType": "modified",
+      "linesChanged": 9,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:40:07.171Z",
+      "changeType": "modified",
+      "linesChanged": 11,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:40:07.345Z",
+      "changeType": "modified",
+      "linesChanged": 11,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:40:36.369Z",
+      "changeType": "modified",
+      "linesChanged": 11,
+      "fileType": "py"
+    },
+    {
+      "fileName": "aws_service.py",
+      "timestamp": "2025-04-10T17:40:54.294Z",
+      "changeType": "modified",
+      "linesChanged": 25,
+      "fileType": "py"
+    }
+  ],
+  "totalChanges": 19,
+  "startTime": "2025-04-10T16:42:38.516Z",
+  "endTime": "2025-04-10T17:40:54.296Z",
+  "projectName": "c:\\Users\\suhel\\OneDrive\\Desktop\\Python for Automation",
+  "branchName": "master"
+}

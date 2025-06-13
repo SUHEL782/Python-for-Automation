@@ -1,0 +1,38 @@
+{
+  "date": "2025-04-11",
+  "changes": [
+    {
+      "fileName": "backup\\backup1.tar",
+      "timestamp": "2025-04-11T04:44:41.115Z",
+      "changeType": "modified",
+      "linesChanged": 0,
+      "fileType": "tar"
+    },
+    {
+      "fileName": "backup\\backup1.tar",
+      "timestamp": "2025-04-11T04:44:41.219Z",
+      "changeType": "modified",
+      "linesChanged": 0,
+      "fileType": "tar"
+    },
+    {
+      "fileName": "backup\\backup1.tar",
+      "timestamp": "2025-04-11T04:44:41.224Z",
+      "changeType": "modified",
+      "linesChanged": 0,
+      "fileType": "tar"
+    },
+    {
+      "fileName": "backup\\backup1.tar",
+      "timestamp": "2025-04-11T04:44:43.213Z",
+      "changeType": "modified",
+      "linesChanged": 0,
+      "fileType": "tar"
+    }
+  ],
+  "totalChanges": 4,
+  "startTime": "2025-04-11T04:33:37.105Z",
+  "endTime": "2025-04-11T04:44:44.391Z",
+  "projectName": "c:\\Users\\suhel\\OneDrive\\Desktop\\Python for Automation",
+  "branchName": "master"
+}
