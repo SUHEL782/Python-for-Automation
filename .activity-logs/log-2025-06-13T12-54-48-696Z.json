@@ -1,0 +1,178 @@
+{
+  "date": "2025-06-13",
+  "changes": [
+    {
+      "fileName": "day1\\conditional.py",
+      "timestamp": "2025-06-13T12:25:13.379Z",
+      "changeType": "modified",
+      "linesChanged": 23,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day1\\conditional.py",
+      "timestamp": "2025-06-13T12:25:31.524Z",
+      "changeType": "modified",
+      "linesChanged": 23,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2",
+      "timestamp": "2025-06-13T12:27:00.631Z",
+      "changeType": "created",
+      "linesChanged": 0,
+      "fileType": "unknown"
+    },
+    {
+      "fileName": "day2\\desktop.ini",
+      "timestamp": "2025-06-13T12:34:27.786Z",
+      "changeType": "deleted",
+      "linesChanged": 0,
+      "fileType": "ini"
+    },
+    {
+      "fileName": "day2",
+      "timestamp": "2025-06-13T12:41:57.988Z",
+      "changeType": "deleted",
+      "linesChanged": 0,
+      "fileType": "unknown"
+    },
+    {
+      "fileName": "day2-DS",
+      "timestamp": "2025-06-13T12:41:57.985Z",
+      "changeType": "created",
+      "linesChanged": 0,
+      "fileType": "unknown"
+    },
+    {
+      "fileName": "day2-DS\\list",
+      "timestamp": "2025-06-13T12:42:23.437Z",
+      "changeType": "created",
+      "linesChanged": 1,
+      "fileType": "unknown"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:42:50.681Z",
+      "changeType": "created",
+      "linesChanged": 1,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list",
+      "timestamp": "2025-06-13T12:42:58.371Z",
+      "changeType": "deleted",
+      "linesChanged": 0,
+      "fileType": "unknown"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:44:52.396Z",
+      "changeType": "modified",
+      "linesChanged": 17,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:44:52.491Z",
+      "changeType": "modified",
+      "linesChanged": 17,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:45:27.245Z",
+      "changeType": "modified",
+      "linesChanged": 18,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:45:27.372Z",
+      "changeType": "modified",
+      "linesChanged": 18,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:46:48.865Z",
+      "changeType": "modified",
+      "linesChanged": 19,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:47:05.989Z",
+      "changeType": "modified",
+      "linesChanged": 19,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:47:21.334Z",
+      "changeType": "modified",
+      "linesChanged": 19,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:48:38.783Z",
+      "changeType": "modified",
+      "linesChanged": 19,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:48:39.108Z",
+      "changeType": "modified",
+      "linesChanged": 19,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:49:28.009Z",
+      "changeType": "modified",
+      "linesChanged": 19,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:49:49.073Z",
+      "changeType": "modified",
+      "linesChanged": 19,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:50:22.877Z",
+      "changeType": "modified",
+      "linesChanged": 20,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:50:34.837Z",
+      "changeType": "modified",
+      "linesChanged": 20,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:50:59.507Z",
+      "changeType": "modified",
+      "linesChanged": 20,
+      "fileType": "py"
+    },
+    {
+      "fileName": "day2-DS\\list.py",
+      "timestamp": "2025-06-13T12:51:44.038Z",
+      "changeType": "modified",
+      "linesChanged": 20,
+      "fileType": "py"
+    }
+  ],
+  "totalChanges": 24,
+  "startTime": "2025-06-13T12:24:48.639Z",
+  "endTime": "2025-06-13T12:51:44.046Z",
+  "projectName": "c:\\Users\\suhel\\OneDrive\\Desktop\\Python for Automation",
+  "branchName": "master"
+}
