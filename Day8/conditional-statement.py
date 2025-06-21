@@ -1,13 +1,6 @@
-# conditional statement
+instance_type = input("Enter your instance type (e.g., t2.micro): ")
 
-num=3
-if num >5:
-    print("Number is greater than 5")
-elif num == 5:
-    print("Number is equal to 5")
-elif num < 5:
-    print("Number is less than 5")
-elif num == 10:
-    print("Number is equal to 10")
+if instance_type == "t2.micro":
+    print("Thanks for using t2.micro")
 else:
-    print("Number is not greater than 5, equal to 5, less than 5 or equal to 10")
+    print("You are not eligible for t2.medium because you are using the free tier")
