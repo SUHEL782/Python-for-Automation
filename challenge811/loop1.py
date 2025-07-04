@@ -20,3 +20,4 @@ while index < len(aws_services1):
     else:
         print(f"{service} is a core AWS service.")
     index += 1  # Increment the index to avoid infinite loop
+
