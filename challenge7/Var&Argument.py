@@ -11,4 +11,7 @@ def fun(a, b):
     print(a + b)
 fun(5,8)
 
+def fun1(a, b, c):
+    print(a + b + c)
+fun1(5, 8, 10)
 

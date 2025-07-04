@@ -59,4 +59,6 @@ b =400
 # mul()
 
 
-
+def mul():
+    print(a * b)
+mul()
